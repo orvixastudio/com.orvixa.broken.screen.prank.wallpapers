@@ -279,6 +279,406 @@
       "wallpaper_type": "static",
       "rewarded": false,
       "prompt": "Fullscreen texture showing an extreme close-up of a deep, shattered impact crater on glass, with layers of shattered safety glass visible within the hole. Pure pitch black background #000000. Extreme 3D depth. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Side Edge Fracture",
+      "wallpaper_thumbnail": "side-edge-fracture.jpg",
+      "wallpaper_url": "side-edge-fracture.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of glass heavily fractured along the left side, with cracks reaching towards the middle. Pure pitch black background #000000. Sharp glass splinters catching light. Absolutely no phone frame, no device borders, and no bezels. Photorealistic, 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Thousands of Splinters",
+      "wallpaper_thumbnail": "thousands-of-splinters.jpg",
+      "wallpaper_url": "thousands-of-splinters.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture totally destroyed into thousands of tiny, frosted glass splinters. No clear impact point, just uniform catastrophic failure. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Middle Horizontal Crack",
+      "wallpaper_thumbnail": "middle-horizontal-crack.jpg",
+      "wallpaper_url": "middle-horizontal-crack.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a jagged, thick horizontal crack running straight across the middle. Pure pitch black background #000000. Very clean but deep fracture. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Frosted Shattered Glass",
+      "wallpaper_thumbnail": "frosted-shattered-glass.jpg",
+      "wallpaper_url": "frosted-shattered-glass.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of shattered glass where the cracks have caused the surface to look frosted and opaque around the damage lines. Pure pitch black background #000000. High contrast. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Subtle Hairline Crack",
+      "wallpaper_thumbnail": "subtle-hairline-crack.jpg",
+      "wallpaper_url": "subtle-hairline-crack.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a very subtle, single hairline crack curving down the right side. Pure pitch black background #000000. Extremely realistic, minimalist damage. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Shattered Glass",
+      "wallpaper_name": "Complete Web Ruin",
+      "wallpaper_thumbnail": "complete-web-ruin.jpg",
+      "wallpaper_url": "complete-web-ruin.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture covered in a tight, overlapping web of heavy fractures, making it look completely ruined. Pure pitch black background #000000. Glass shards ready to fall out. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Pink Pixel Bleed",
+      "wallpaper_thumbnail": "pink-pixel-bleed.jpg",
+      "wallpaper_url": "pink-pixel-bleed.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a harsh, glowing neon pink blob of dead pixels leaking from a corner crack. Pure pitch black background #000000. Digital artifacting and LCD bleed effect. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Vertical RGB Stripes",
+      "wallpaper_thumbnail": "vertical-rgb-stripes.jpg",
+      "wallpaper_url": "vertical-rgb-stripes.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of multiple thin, glitching vertical lines in pure red, green, and blue (RGB) cutting down the center. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Flickering Static Bars",
+      "wallpaper_thumbnail": "flickering-static-bars.jpg",
+      "wallpaper_url": "flickering-static-bars.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of thick horizontal bars of white and grey digital television static glitching across the bottom half. Pure pitch black background #000000. Harsh digital noise. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Yellow Burn-in Ghosting",
+      "wallpaper_thumbnail": "yellow-burn-in-ghosting.jpg",
+      "wallpaper_url": "yellow-burn-in-ghosting.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a severe, sickly yellow OLED screen burn-in effect, looking like permanent ghosting of a keyboard on the lower half. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Bottom Half Dead",
+      "wallpaper_thumbnail": "bottom-half-dead.jpg",
+      "wallpaper_url": "bottom-half-dead.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture where the bottom half is filled with a corrupted digital glitch pattern of green and white noise, separated by a sharp jagged line from the pure pitch black top half #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Cyan Liquid Crystal Leak",
+      "wallpaper_thumbnail": "cyan-liquid-crystal-leak.jpg",
+      "wallpaper_url": "cyan-liquid-crystal-leak.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of bright cyan liquid crystal leaking organically down like digital ink, starting from a phantom crack at the top. Pure pitch black background #000000. Cyberpunk glitch aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Processor Chip Revealed",
+      "wallpaper_thumbnail": "processor-chip-revealed.jpg",
+      "wallpaper_url": "processor-chip-revealed.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a large piece of shattered glass missing, perfectly framing a realistic CPU processor chip and silver heat sink underneath. Pure pitch black background #000000. High-tech macro photography. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Burnt Circuits",
+      "wallpaper_thumbnail": "burnt-circuits.jpg",
+      "wallpaper_url": "burnt-circuits.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of shattered glass exposing internal green circuit boards that look melted and charred black from an electrical short circuit. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Exposed Copper Coils",
+      "wallpaper_thumbnail": "exposed-copper-coils.jpg",
+      "wallpaper_url": "exposed-copper-coils.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of deep cracks revealing the shiny copper wire coils of a wireless charging pad hidden beneath. Pure pitch black background #000000. Realistic metallic reflections. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Torn Silver Shielding",
+      "wallpaper_thumbnail": "torn-silver-shielding.jpg",
+      "wallpaper_url": "torn-silver-shielding.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of broken glass exposing crumpled, torn silver electromagnetic shielding tape and tiny microscopic resistors. Pure pitch black background #000000. Macro lens style. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Broken Sim Tray Area",
+      "wallpaper_thumbnail": "broken-sim-tray-area.jpg",
+      "wallpaper_url": "broken-sim-tray-area.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of shattered glass concentrated on the side, revealing the internal metallic structure of a SIM card tray reader and gold contact pins. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Exposed Internals",
+      "wallpaper_name": "Glowing Red LED Board",
+      "wallpaper_thumbnail": "glowing-red-led-board.jpg",
+      "wallpaper_url": "glowing-red-led-board.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of broken glass revealing a dark internal circuit board with a single, ominous glowing red internal diagnostic LED light shining through the cracks. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Concrete Pavement Scrape",
+      "wallpaper_thumbnail": "concrete-pavement-scrape.jpg",
+      "wallpaper_url": "concrete-pavement-scrape.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a massive, ugly friction scrape across the glass, looking exactly like it was dropped and dragged face-down on rough concrete pavement. Pure pitch black background #000000. Gritty, white abrasive texture. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Coin Scratch Cluster",
+      "wallpaper_thumbnail": "coin-scratch-cluster.jpg",
+      "wallpaper_url": "coin-scratch-cluster.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a dense cluster of swirling, circular scratches in the center, as if rubbed aggressively against coins in a pocket. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Razor Blade Cuts",
+      "wallpaper_thumbnail": "razor-blade-cuts.jpg",
+      "wallpaper_url": "razor-blade-cuts.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of three perfectly straight, incredibly deep and sharp gouges cutting across the glass, resembling damage from a razor blade or box cutter. Pure pitch black background #000000. 3D depth effect. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Circular Scuff Marks",
+      "wallpaper_thumbnail": "circular-scuff-marks.jpg",
+      "wallpaper_url": "circular-scuff-marks.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of large, cloudy circular scuff marks ruining the gloss of the glass, mimicking damage from an abrasive cleaning pad. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Deep Center Gouge",
+      "wallpaper_thumbnail": "deep-center-gouge.jpg",
+      "wallpaper_url": "deep-center-gouge.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a single, very short but extremely deep and wide scratch right in the middle, catching light sharply. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Heavy Scratches",
+      "wallpaper_name": "Pocket Sand Damage",
+      "wallpaper_thumbnail": "pocket-sand-damage.jpg",
+      "wallpaper_url": "pocket-sand-damage.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of thousands of tiny, sparkling micro-scratches dusting the entire surface, resembling severe pocket sand abrasion. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Heavy Rock Smash",
+      "wallpaper_thumbnail": "heavy-rock-smash.jpg",
+      "wallpaper_url": "heavy-rock-smash.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a brutal, uneven impact crater resembling a smash from a jagged rock. The center is crushed into white powder with thick, heavy fractures radiating outward. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Airsoft Pellet Crack",
+      "wallpaper_thumbnail": "airsoft-pellet-crack.jpg",
+      "wallpaper_url": "airsoft-pellet-crack.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a small, perfectly round impact point with a symmetrical circular web crack around it, exactly like a BB gun or airsoft pellet strike on safety glass. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Multiple Impact Craters",
+      "wallpaper_thumbnail": "multiple-impact-craters.jpg",
+      "wallpaper_url": "multiple-impact-craters.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of three separate, violent impact craters clustered on the top half, with their crack webs intersecting and overlapping chaotically. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Shattered Starburst",
+      "wallpaper_thumbnail": "shattered-starburst.jpg",
+      "wallpaper_url": "shattered-starburst.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a sharp impact point that creates a perfect 'starburst' fracture pattern with long, straight cracks reaching all four corners. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Golf Ball Strike",
+      "wallpaper_thumbnail": "golf-ball-strike.jpg",
+      "wallpaper_url": "golf-ball-strike.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a massive, wide impact zone with a large area of totally crushed glass, simulating a high-velocity blunt force strike like a golf ball. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Impact & Bullet Hole",
+      "wallpaper_name": "Destroyed Corner Hole",
+      "wallpaper_thumbnail": "destroyed-corner-hole.jpg",
+      "wallpaper_url": "destroyed-corner-hole.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture where the top right corner of the glass is completely blown out and missing, leaving a jagged, shattered hole with severe cracks running down the side. Pure pitch black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 51,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Purple Line of Death",
+      "wallpaper_thumbnail": "purple-line-of-death.jpg",
+      "wallpaper_url": "purple-line-of-death.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a glaring, neon purple vertical line of dead pixels running straight down the left side. Pure pitch black background #000000. Subtle digital color bleeding around the line. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 52,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Double Green Lines",
+      "wallpaper_thumbnail": "double-green-lines.jpg",
+      "wallpaper_url": "double-green-lines.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of two parallel, glowing neon green vertical lines of dead pixels running down the center of the display. Pure pitch black background #000000. Hardware failure aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 53,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "RGB Vertical Lines",
+      "wallpaper_thumbnail": "rgb-vertical-lines.jpg",
+      "wallpaper_url": "rgb-vertical-lines.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of three distinct, bright vertical lines in pure red, pure green, and pure blue (RGB) spaced evenly across the screen. Pure pitch black background #000000. Realistic OLED panel malfunction. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 54,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Multiple Cyan Lasers",
+      "wallpaper_thumbnail": "multiple-cyan-lasers.jpg",
+      "wallpaper_url": "multiple-cyan-lasers.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of five glowing neon cyan vertical lines of varying thicknesses scattered randomly across the screen. Pure pitch black background #000000. Intense digital glitch and pixel bleed. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 55,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Pink Yellow Glitch",
+      "wallpaper_thumbnail": "pink-yellow-glitch.jpg",
+      "wallpaper_url": "pink-yellow-glitch.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of one neon pink and one neon yellow vertical line of dead pixels running close together on the right side. Pure pitch black background #000000. Sharp, blinding LCD failure effect. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 56,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Thick Magenta Band",
+      "wallpaper_thumbnail": "thick-magenta-band.jpg",
+      "wallpaper_url": "thick-magenta-band.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a thick, glaring neon magenta vertical band of dead pixels down the middle, flanked by thinner white lines. Pure pitch black background #000000. Severe display ribbon damage aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 57,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Fading Orange Line",
+      "wallpaper_thumbnail": "fading-orange-line.jpg",
+      "wallpaper_url": "fading-orange-line.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a single neon orange vertical line that fades in and out of brightness towards the bottom of the screen. Pure pitch black background #000000. Subtle, irritating screen burn and pixel death. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 58,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Glitch Crosshair",
+      "wallpaper_thumbnail": "glitch-crosshair.jpg",
+      "wallpaper_url": "glitch-crosshair.jpg",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of one neon green vertical line intersecting with a bright pink horizontal line of dead pixels near the top right. Pure pitch black background #000000. Glitch crosshair panel error. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 59,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "White Glitch Bar",
+      "wallpaper_thumbnail": "white-glitch-bar.jpg",
+      "wallpaper_url": "white-glitch-bar.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a dense cluster of thin, blindingly bright white vertical lines grouped together like a solid bar on the left edge. Pure pitch black background #000000. High contrast screen failure. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 60,
+      "category_name": "OLED LCD Glitch",
+      "wallpaper_name": "Rainbow Glitch Barcode",
+      "wallpaper_thumbnail": "rainbow-glitch-barcode.jpg",
+      "wallpaper_url": "rainbow-glitch-barcode.jpg",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of dozens of very thin, multi-colored vertical lines spanning across the entire screen, resembling a glitching barcode. Pure pitch black background #000000. Total OLED panel collapse aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
     }
   ],
   "more_apps": []
